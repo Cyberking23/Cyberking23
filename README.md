@@ -11,7 +11,7 @@ Hello! I am Carlos, a front-end developer with experience in creating dynamic an
 ---
 
 ### Front-End Skills
-<code><a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></a></code>
+<code><a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="python logo" /></a></code>
 <code><a href="https://www.scala-lang.org/"><img height="40" src="https://seeklogo.com/images/S/scala-logo-8570724313-seeklogo.com.png" alt="scala logo" /></a></code>
 <code><a href="https://spark.apache.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="spark logo" /></a></code>
 <code><a href="https://scikit-learn.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="sklearn logo" /></a></a></code>
