@@ -12,23 +12,19 @@ Hello! I am Carlos, a front-end developer with experience in creating dynamic an
 
 ### Front-End Skills
 <a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="python logo"/></a>
-
 <a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/250px-CSS3_logo_and_wordmark.svg.png" alt="python logo"/></a>
-
 <a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="python logo"/></a>
-
 <a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1024px-React.svg.png" alt="python logo"/></a>
-
 <a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/1024px-Tailwind_CSS_logo.svg.png" alt="python logo"/></a>
 
 
 ### Back-End Skills
-
+<a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png"/></a>
+<a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1024px-Node.js_logo.svg.png" alt="python logo"/></a>
+<a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1024px-Laravel.svg.png" alt="python logo"/></a>
+<a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="python logo"/></a>
+<a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1024px-MySQL_logo.svg.png"/></a>
 
 
 
 ---
-
-Credit [iahsanujunda](https://github.com/iahsanujunda)
-
-Last Edited on: 14/02/2021
