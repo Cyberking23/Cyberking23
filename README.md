@@ -6,8 +6,8 @@ Hello! I am Carlos, a front-end developer with experience in creating dynamic an
 - 📚 Always seeking new opportunities to learn and enhance my skills in web development.
 - 🐝 My ability to maintain discipline and organization allows me to approach projects efficiently and effectively.
 - 🔭 Motivated by facing new challenges and exploring innovative solutions in the field of web development.
-- 🌱 Experienced in working with HTML, CSS, JavaScript, React, PHP, Tailwind CSS, and MySQL, applying this knowledge to develop web         pages.
-
+- 🌱 Experienced in working with HTML, CSS, JavaScript, React, PHP, Tailwind CSS, and MySQL, applying this knowledge to develop web pages.
+- 🍰 Proficient in both English and Spanish, I facilitate seamless communication and teamwork in global and multicultural contexts.
 ---
 
 ### Front-End Skills
