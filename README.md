@@ -19,11 +19,10 @@ Hello! I am Carlos, a front-end developer with experience in creating dynamic an
 
 
 ### Back-End Skills
-<a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png"/></a>
 <a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1024px-Node.js_logo.svg.png" alt="python logo"/></a>
-<a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1024px-Laravel.svg.png" alt="python logo"/></a>
 <a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="python logo"/></a>
-<a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1024px-MySQL_logo.svg.png"/></a>
+<a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/MongoDB_Fores-Green.svg/250px-MongoDB_Fores-Green.svg.png"/></a>
+<a href="#"><img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1024px-MySQL_logo.svg.png"/></a>
 
 
 
