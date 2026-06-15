@@ -1,29 +1,57 @@
-<!-- Greeting -->
-# Hi, I'm Carlos!
-<!--Introduction -->
-Hello! I am Carlos, a front-end developer with experience in creating dynamic and efficient web pages. I am skilled in HTML, CSS, JavaScript, React, PHP, Tailwind CSS, and MySQL. My focus is on developing web applications that are both functional and aesthetically pleasing. I am eager to take on new challenges and continue growing in the field. Feel free to explore my repositories and contact me for collaboration opportunities or professional networking. Let's work together to build impressive web solutions.
+# 👋 ¡Hola! Soy Carlos Merino
 
-- 📚 Always seeking new opportunities to learn and enhance my skills in web development.
-- 🐝 My ability to maintain discipline and organization allows me to approach projects efficiently and effectively.
-- 🔭 Motivated by facing new challenges and exploring innovative solutions in the field of web development.
-- 🌱 Experienced in working with HTML, CSS, JavaScript, React, PHP, Tailwind CSS, and MySQL, applying this knowledge to develop web pages.
-- 🍰 Proficient in both English and Spanish, I facilitate seamless communication and teamwork in global and multicultural contexts.
+<p align="center">
+  <b>Desarrollador Web | Estudiante de Ingeniería</b><br/>
+  <i>Apasionado por la arquitectura web, la lógica de backend y el desarrollo de interfaces fluidas.</i>
+</p>
+
+<p align="center">
+  <a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
 ---
 
-### Front-End Skills
-<a href="#"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="python logo"/></a>
-<a href="#"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/250px-CSS3_logo_and_wordmark.svg.png" alt="python logo"/></a>
-<a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="python logo"/></a>
-<a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1024px-React.svg.png" alt="python logo"/></a>
-<a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg" alt="python logo"/></a>
+### 🚀 Sobre mí
+Soy un desarrollador que fusiona la lógica del backend con interfaces limpias. Mi enfoque es construir soluciones escalables y funcionales.
 
+| Características | Lo que aporto |
+| :--- | :--- |
+| **Disciplina** | Organización y eficiencia en el ciclo de vida de desarrollo. |
+| **Aprendizaje** | Búsqueda constante de nuevas tecnologías y retos. |
+| **Idiomas** | Comunicación fluida en Inglés y Español. |
 
-### Back-End Skills
-<a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1024px-Node.js_logo.svg.png" alt="python logo"/></a>
-<a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="python logo"/></a>
-<a href="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/MongoDB_Fores-Green.svg/250px-MongoDB_Fores-Green.svg.png"/></a>
-<a href="#"><img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1024px-MySQL_logo.svg.png"/></a>
+---
 
+### 🛠 Tech Stack
 
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/120px-React.svg.png" width="50" /><br>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg" width="50" /><br>
+      <sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="50" /><br>
+      <sub><b>PHP/Laravel</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/200px-MySQL_logo.svg.png" width="50" /><br>
+      <sub><b>MySQL</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Estadísticas
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyberking23&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Carlos's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberking23&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+</p>
 
 ---
