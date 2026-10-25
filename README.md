@@ -8,7 +8,7 @@
 
 Desarrollador de software y estudiante de Ingeniería en Ciencias de la Computación en la Universidad Don Bosco[cite: 4]. Me especializo en crear backends robustos y frontends pulidos de extremo a extremo. Aplico una fuerte base analítica en álgebra vectorial y física para estructurar soluciones algorítmicas y optimizar bases de datos en producción. 
 
-Tengo experiencia directa en despliegue de sistemas ERP, mantenimiento corporativo, integración de facturación electrónica (DTE) y arquitecturas API RESTful[cite: 3].
+Tengo experiencia directa en despliegue de sistemas ERP, mantenimiento corporativo, integración de facturación electrónica (DTE) y arquitecturas API RESTful
 
 <br/>
 
