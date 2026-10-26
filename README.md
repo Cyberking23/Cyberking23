@@ -39,8 +39,7 @@ A nivel profesional, cuento con experiencia práctica en el ciclo de vida del de
 ## 📈 Estadísticas de Contribución
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyberking23&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&hide_rank=true&hide=issues,contribs,commits" width="48%" alt="GitHub Stats" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyberking23&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberking23&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF" width="48%" alt="GitHub Streak" />
 </div>
 
