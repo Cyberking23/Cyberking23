@@ -6,21 +6,21 @@
 
 ## 👨‍💻 Sobre mi trabajo
 
-Desarrollador de software y estudiante de Ingeniería en Ciencias de la Computación en la Universidad Don Bosco[cite: 4]. Me especializo en crear backends robustos y frontends pulidos de extremo a extremo. Aplico una fuerte base analítica en álgebra vectorial y física para estructurar soluciones algorítmicas y optimizar bases de datos en producción. 
+Soy estudiante de Ingeniería en Ciencias de la Computación en la Universidad Don Bosco y desarrollador de software enfocado en la construcción de arquitecturas tecnológicas integrales. Mi especialidad radica en el diseño de backends escalables y frontends optimizados, respaldados por una sólida formación analítica en matemáticas y física. Esta base me permite aplicar principios de lógica algorítmica para resolver problemas técnicos complejos, estructurar código eficiente y maximizar el rendimiento de bases de datos operando en entornos de producción.
 
-Tengo experiencia directa en despliegue de sistemas ERP, mantenimiento corporativo, integración de facturación electrónica (DTE) y arquitecturas API RESTful
+A nivel profesional, cuento con experiencia práctica en el ciclo de vida del desarrollo corporativo y el soporte de TI. He participado directamente en la implementación y despliegue de sistemas ERP, así como en la integración de módulos operativos críticos, como la facturación electrónica (DTE). Mi enfoque se centra en garantizar la continuidad, escalabilidad y seguridad de los servicios empresariales mediante el desarrollo de arquitecturas API RESTful robustas y el mantenimiento preventivo de la infraestructura tecnológica.
 
 <br/>
 
 ## 💼 Experiencia Profesional Destacada
 
-> **Desarrollador de Software (CRM)** | *Profinancial SV* <!--[cite: 3] -->
+> **Desarrollador de Software (CRM)** | *Profinancial SV* 
 > Implementación de lógica de negocio y nuevas funcionalidades en PHP. Diseño y mantenimiento de bases de datos MySQL para gestión contable y creación de interfaces con Tailwind CSS.
 
-> **Desarrollador de Software ERP** | *Intersys* <!--[cite: 3] -->
+> **Desarrollador de Software ERP** | *Intersys* 
 > Optimización de módulos críticos con Laravel e integración de sistemas de Facturación Electrónica (DTE). Administración directa de bases de datos MySQL en servidores en producción.
 
-> **Soporte Técnico** | *Colegio Don Bosco* <!--[cite: 3] -->
+> **Soporte Técnico** | *Colegio Don Bosco* 
 > Mantenimiento preventivo, correctivo y diagnóstico del parque informático. Instalación de sistemas operativos y resolución de fallas técnicas.
 
 <br/>
@@ -29,7 +29,7 @@ Tengo experiencia directa en despliegue de sistemas ERP, mantenimiento corporati
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,py,nodejs,express,mysql,mongo,docker,git,postman&theme=dark&perline=8" alt="Tech Stack"/> <!--[cite: 4] -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,py,nodejs,express,mysql,mongo,docker,git,postman&theme=dark&perline=8" alt="Tech Stack"/>
   </a>
 </div>
 
@@ -49,6 +49,7 @@ Tengo experiencia directa en despliegue de sistemas ERP, mantenimiento corporati
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
   <br/>
   <br/>
-  <a href="mailto:merinoventura123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&scale=1.5" alt="Email" /></a> <!--[cite: 3] -->
-  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.5" alt="LinkedIn" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=merinoventura123@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&scale=1.5" alt="Email" />
+</a>
 </div>
