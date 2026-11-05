@@ -29,7 +29,7 @@ A nivel profesional, cuento con experiencia práctica en el ciclo de vida del de
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,py,nodejs,express,mysql,mongo,docker,git,postman&theme=dark&perline=8" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,py,nodejs,express,mysql,mongo,docker,git,linux,postman&theme=dark&perline=8" alt="Tech Stack"/>
   </a>
 </div>
 
